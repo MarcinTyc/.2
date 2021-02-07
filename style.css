@@ -247,7 +247,6 @@ margin-top: 200px;
                    grid-template-columns: 1fr 1fr 1fr;
                    grid-template-rows: auto;
                    text-align: left;
-    margin-left: 100px;
                }
 .project-name{
     color: white;
